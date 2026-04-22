@@ -50,11 +50,11 @@ Geral, colecionadores, lifestyle casual-premium
 
 ### Preços (Site Jan 2026)
 
-| Variação | Preço Cheio | Promocional | 3x |
-|----------|-------------|-------------|-----|
-| Preto | R$ 249 | R$ 224 | R$ 74 |
-| Marrom | R$ 299 | R$ 189 | R$ 63 |
-| Lilac Violet | R$ 299 | R$ 219 | R$ 73 |
+| Variação     | Preço Cheio | Promocional | 3x    |
+| ------------ | ----------- | ----------- | ----- |
+| Preto        | R$ 249      | R$ 224      | R$ 74 |
+| Marrom       | R$ 299      | R$ 189      | R$ 63 |
+| Lilac Violet | R$ 299      | R$ 219      | R$ 73 |
 
 ### Características
 

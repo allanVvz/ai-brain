@@ -8,6 +8,23 @@ applies_to: [all]
 
 ## Por Cliente
 
+### tock_fatal
+
+- **Categoria de produto**: moda_feminina
+- **Entidade**: `05_ENTITIES/CLIENTS/TOCK_FATAL/`
+- **Índice**: `05_ENTITIES/CLIENTS/TOCK_FATAL/index.md`
+
+| Tipo | Arquivos |
+|------|---------|
+| Entidade | brand.md, briefing.md, tone.md, audience.md |
+| Competidores | competitors/zafira.md, competitors/supervaidosa.md, competitors/nina_luxo.md (draft) |
+| Padrões exclusivos | kit_estreia_tock_fatal |
+| Prompts | SDR/tock_fatal.md, CLOSER/tock_fatal.md |
+| Skills | SDR, CLOSER, CLASSIFIER, EXTRACTOR |
+| Flows | SDR_ROUTING |
+
+---
+
 ### vz_lupas
 
 - **Categoria de produto**: oculos
@@ -35,6 +52,12 @@ applies_to: [all]
 ---
 
 ## Por Tipo de Padrão
+
+### buying_signal_conversion
+
+| Padrão | Cliente | Arquivo |
+|--------|---------|---------|
+| kit_estreia_tock_fatal | tock_fatal | `06_PATTERNS/buying_signal/kit_estreia_tock_fatal.md` |
 
 ### buying_signal_promotion
 
