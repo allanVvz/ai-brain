@@ -1,3 +1,12 @@
+---
+tags: [pattern, objection, warranty, generic]
+type: pattern
+pattern_type: objection
+applies_to: [all]
+related_skills: [CLOSER]
+related_flows: [SDR_ROUTING]
+---
+
 # Padrão: Objeção de Garantia
 
 ## Sinal

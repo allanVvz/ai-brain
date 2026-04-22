@@ -1,3 +1,12 @@
+---
+tags: [pattern, price_inquiry, installment, payment, generic]
+type: pattern
+pattern_type: price_inquiry
+applies_to: [all]
+related_skills: [SDR, CLOSER]
+related_flows: [SDR_ROUTING]
+---
+
 # Padrão: Pergunta sobre Parcelamento
 
 ## Sinal

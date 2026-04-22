@@ -1,3 +1,12 @@
+---
+tags: [vz_lupas, oculos, entity, tone, voice]
+type: entity
+client: vz_lupas
+product_category: oculos
+applies_to: [vz_lupas]
+related_skills: [SDR, CLOSER]
+---
+
 # VZ Lupas - Tone of Voice
 
 ## Estilo

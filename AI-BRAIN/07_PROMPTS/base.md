@@ -1,3 +1,10 @@
+---
+tags: [prompt, base, generic, vault]
+type: prompt
+applies_to: [all]
+related_skills: [SDR, CLOSER, CLASSIFIER, EXTRACTOR]
+---
+
 # Prompt Base
 
 ## Instrução

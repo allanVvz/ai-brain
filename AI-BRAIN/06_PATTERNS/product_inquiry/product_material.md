@@ -1,3 +1,12 @@
+---
+tags: [pattern, product_inquiry, material, quality, generic]
+type: pattern
+pattern_type: product_inquiry
+applies_to: [all]
+related_skills: [SDR]
+related_flows: [SDR_ROUTING]
+---
+
 # Padrão: Pergunta sobre Material
 
 ## Sinal

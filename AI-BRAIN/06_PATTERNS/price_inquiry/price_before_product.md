@@ -1,3 +1,12 @@
+---
+tags: [pattern, price_inquiry, product_required, generic]
+type: pattern
+pattern_type: price_inquiry
+applies_to: [all]
+related_skills: [SDR]
+related_flows: [SDR_ROUTING]
+---
+
 # Padrão: Preço Sem Produto
 
 ## Sinal

@@ -1,3 +1,13 @@
+---
+tags: [prompt, closer, vz_lupas, oculos]
+type: prompt
+client: vz_lupas
+product_category: oculos
+applies_to: [vz_lupas]
+related_skills: [CLOSER]
+related_flows: [SDR_ROUTING]
+---
+
 # Prompt CLOSER — VZ Lupas
 
 ## Contexto

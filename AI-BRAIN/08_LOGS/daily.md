@@ -1,3 +1,9 @@
+---
+tags: [log, daily, monitoring, improvements]
+type: log
+applies_to: [all]
+---
+
 # Log Diário
 
 ## O que funcionou

@@ -1,3 +1,13 @@
+---
+tags: [prompt, sdr, vz_lupas, oculos]
+type: prompt
+client: vz_lupas
+product_category: oculos
+applies_to: [vz_lupas]
+related_skills: [SDR]
+related_flows: [SDR_ROUTING]
+---
+
 # Prompt SDR — VZ Lupas
 
 ## Contexto

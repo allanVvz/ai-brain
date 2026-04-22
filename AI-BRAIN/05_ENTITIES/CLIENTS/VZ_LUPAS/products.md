@@ -1,3 +1,12 @@
+---
+tags: [vz_lupas, oculos, entity, products, catalog]
+type: entity
+client: vz_lupas
+product_category: oculos
+applies_to: [vz_lupas]
+related_patterns: [price_before_product, product_comparison]
+---
+
 # VZ Lupas - Catálogo de Produtos
 
 ## Juliet (Clássica Icônica)

@@ -1,3 +1,12 @@
+---
+tags: [pattern, price_inquiry, legacy, generic]
+type: pattern
+pattern_type: price_inquiry
+applies_to: [all]
+note: legacy — use 06_PATTERNS/price_inquiry/ instead
+related_skills: [SDR]
+---
+
 # Pattern: Price Request
 
 ## Signal

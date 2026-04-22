@@ -1,3 +1,14 @@
+---
+tags: [pattern, product_inquiry, comparison, vz_lupas, oculos]
+type: pattern
+pattern_type: product_inquiry
+client: vz_lupas
+product_category: oculos
+applies_to: [vz_lupas]
+related_skills: [SDR]
+related_flows: [SDR_ROUTING]
+---
+
 # Padrão: Comparação Entre Produtos
 
 ## Sinal

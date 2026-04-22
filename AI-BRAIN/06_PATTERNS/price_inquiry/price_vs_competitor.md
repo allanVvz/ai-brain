@@ -1,3 +1,12 @@
+---
+tags: [pattern, price_inquiry, competitor, comparison, generic]
+type: pattern
+pattern_type: price_inquiry
+applies_to: [all]
+related_skills: [CLOSER]
+related_flows: [SDR_ROUTING]
+---
+
 # Padrão: Comparação com Concorrente
 
 ## Sinal

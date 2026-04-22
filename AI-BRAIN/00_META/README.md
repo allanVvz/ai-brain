@@ -1,3 +1,9 @@
+---
+tags: [meta, vault, system, readme]
+type: meta
+applies_to: [all]
+---
+
 # README
 
 ## Purpose

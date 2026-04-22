@@ -1,3 +1,16 @@
+---
+tags: [vz_lupas, oculos, promotion, buying_signal, compre_1_leve_2]
+type: pattern
+pattern_type: buying_signal_promotion
+client: vz_lupas
+product_category: oculos
+applies_to: [vz_lupas]
+related_skills: [CLOSER, SDR]
+related_flows: [SDR_ROUTING]
+version: 1.0
+last_updated: 2026-01-22
+---
+
 # Padrão: Sinal de Compra — Compre 1 e Leve 2
 
 ## Sinal
@@ -70,3 +83,19 @@ SDR: "Top! Tá em Compre 1 e Leve 2. Quer outra cor? Sai de graça!"
 - Sempre que lead escolher 1 produto
 - SDR final ou CLOSER inicial
 - Natural, sem parecer forçado
+
+## Aplicável a
+
+| Cliente | Categoria | Promoção equivalente |
+|---------|-----------|---------------------|
+| VZ Lupas | oculos | Compre 1 e Leve 2 |
+| [Futuro cliente] | [categoria] | [nome da promoção similar] |
+
+## Notas para Escala
+
+Se outro cliente oferecer promoção do tipo "leve N pague 1":
+1. Criar: `06_PATTERNS/buying_signal/[nome_promo_cliente].md`
+2. Front-matter com `client: [cliente]` e tags do cliente
+3. Referenciar este padrão em `similar_patterns: [compre_1_leve_2]`
+4. Adicionar na seção "Aplicável a" acima
+5. Atualizar `00_META/TAGS_INDEX.md` com o novo padrão

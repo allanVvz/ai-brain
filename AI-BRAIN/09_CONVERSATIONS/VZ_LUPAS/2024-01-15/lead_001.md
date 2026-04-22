@@ -1,3 +1,11 @@
+---
+tags: [conversation, vz_lupas, lead, example, oculos]
+type: conversation
+client: vz_lupas
+product_category: oculos
+applies_to: [vz_lupas]
+---
+
 # Conversa — lead_001
 
 ## Metadata

@@ -1,3 +1,12 @@
+---
+tags: [intent, product_inquiry, routing, generic]
+type: intent
+applies_to: [all]
+related_skills: [SDR]
+related_flows: [SDR_ROUTING]
+related_patterns: [product_doubt, product_material, product_color_ask, product_comparison]
+---
+
 # Intent: Consulta de Produto
 
 ## Descrição

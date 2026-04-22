@@ -1,3 +1,9 @@
+---
+tags: [meta, manifest, index, validation]
+type: meta
+applies_to: [all]
+---
+
 # MANIFEST - Todos os Arquivos
 
 Use este arquivo para confirmar que você tem TODOS os arquivos após clonar do GitHub.

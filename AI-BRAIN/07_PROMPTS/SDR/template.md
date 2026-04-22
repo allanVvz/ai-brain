@@ -1,3 +1,10 @@
+---
+tags: [prompt, sdr, template, generic]
+type: prompt
+applies_to: [all]
+related_skills: [SDR]
+---
+
 # Prompt SDR — Template
 
 ## Contexto

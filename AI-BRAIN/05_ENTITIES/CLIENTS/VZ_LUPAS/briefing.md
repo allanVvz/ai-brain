@@ -1,3 +1,13 @@
+---
+tags: [vz_lupas, oculos, entity, briefing, operations]
+type: entity
+client: vz_lupas
+product_category: oculos
+applies_to: [vz_lupas]
+related_skills: [SDR, CLOSER]
+related_flows: [SDR_ROUTING]
+---
+
 # VZ Lupas - Briefing Operacional
 
 ## Campanhas Ativas (Jan 2026)

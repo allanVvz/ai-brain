@@ -1,3 +1,10 @@
+---
+tags: [prompt, base, legacy, generic]
+type: prompt
+applies_to: [all]
+note: legacy — use 07_PROMPTS/base.md instead
+---
+
 # Base Prompt
 
 ## Instruction

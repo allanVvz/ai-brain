@@ -1,3 +1,16 @@
+---
+tags: [vz_lupas, oculos, trade_in, buying_signal, visao_circular]
+type: pattern
+pattern_type: buying_signal_trade_in
+client: vz_lupas
+product_category: oculos
+applies_to: [vz_lupas]
+related_skills: [CLOSER]
+related_flows: [SDR_ROUTING]
+version: 1.0
+last_updated: 2026-01-22
+---
+
 # Padrão: Sinal de Compra — Visão Circular ♻️ Trade-In
 
 ## Sinal

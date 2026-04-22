@@ -1,3 +1,10 @@
+---
+tags: [prompt, closer, template, generic]
+type: prompt
+applies_to: [all]
+related_skills: [CLOSER]
+---
+
 # Prompt CLOSER — Template
 
 ## Contexto

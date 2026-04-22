@@ -1,3 +1,12 @@
+---
+tags: [vz_lupas, oculos, entity, legacy]
+type: entity
+client: vz_lupas
+product_category: oculos
+applies_to: [vz_lupas]
+note: legacy — use 05_ENTITIES/CLIENTS/VZ_LUPAS/ instead
+---
+
 # Entity: VZ Lupas
 
 ## Brand

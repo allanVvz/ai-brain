@@ -1,3 +1,12 @@
+---
+tags: [pattern, error, json, parsing, generic]
+type: pattern
+pattern_type: error
+applies_to: [all]
+related_skills: [CLASSIFIER, EXTRACTOR]
+related_flows: [SDR_ROUTING]
+---
+
 # Erro: JSON Inválido
 
 ## Descrição

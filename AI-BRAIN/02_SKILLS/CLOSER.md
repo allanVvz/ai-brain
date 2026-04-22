@@ -1,3 +1,10 @@
+---
+tags: [skill, closer, sales, objection]
+type: skill
+applies_to: [all]
+related_flows: [SDR_ROUTING]
+---
+
 # Skill: CLOSER
 
 ## Role

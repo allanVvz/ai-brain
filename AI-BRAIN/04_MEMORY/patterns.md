@@ -1,3 +1,9 @@
+---
+tags: [memory, patterns, template, storage]
+type: memory
+applies_to: [all]
+---
+
 # Memory: Patterns
 
 ## Template

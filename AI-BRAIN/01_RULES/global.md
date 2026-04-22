@@ -1,3 +1,10 @@
+---
+tags: [rules, global, constraints]
+type: rule
+applies_to: [all]
+related_skills: [SDR, CLOSER, CLASSIFIER, EXTRACTOR]
+---
+
 # Global Rules
 
 ## Constraints

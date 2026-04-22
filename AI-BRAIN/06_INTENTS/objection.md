@@ -1,3 +1,12 @@
+---
+tags: [intent, objection, routing, generic]
+type: intent
+applies_to: [all]
+related_skills: [CLOSER]
+related_flows: [SDR_ROUTING]
+related_patterns: [objection_price_high, objection_shipping_slow, objection_no_warranty, objection_no_need]
+---
+
 # Intent: Objeção
 
 ## Descrição

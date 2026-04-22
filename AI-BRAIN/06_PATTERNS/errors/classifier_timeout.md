@@ -1,3 +1,12 @@
+---
+tags: [pattern, error, classifier, timeout, generic]
+type: pattern
+pattern_type: error
+applies_to: [all]
+related_skills: [CLASSIFIER]
+related_flows: [SDR_ROUTING]
+---
+
 # Erro: Timeout no Classifier
 
 ## Descrição

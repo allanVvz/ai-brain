@@ -1,3 +1,10 @@
+---
+tags: [skill, classifier, routing, json]
+type: skill
+applies_to: [all]
+related_flows: [SDR_ROUTING]
+---
+
 # Skill: CLASSIFIER
 
 ## Output Format

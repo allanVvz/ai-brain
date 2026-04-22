@@ -1,3 +1,9 @@
+---
+tags: [skill, extractor, json, data]
+type: skill
+applies_to: [all]
+---
+
 # Skill: EXTRACTOR
 
 ## Output Format

@@ -1,3 +1,10 @@
+---
+tags: [skill, sdr, whatsapp, sales]
+type: skill
+applies_to: [all]
+related_flows: [SDR_ROUTING]
+---
+
 # Skill: SDR
 
 ## Role

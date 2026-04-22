@@ -1,3 +1,12 @@
+---
+tags: [pattern, error, cep, validation, generic]
+type: pattern
+pattern_type: error
+applies_to: [all]
+related_skills: [SDR, EXTRACTOR]
+related_flows: [SDR_ROUTING]
+---
+
 # Erro: CEP Ausente
 
 ## Descrição

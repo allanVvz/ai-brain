@@ -1,3 +1,12 @@
+---
+tags: [intent, buying_signal, routing, generic]
+type: intent
+applies_to: [all]
+related_skills: [CLOSER]
+related_flows: [SDR_ROUTING]
+related_patterns: [compre_1_leve_2, visao_circular_tradein]
+---
+
 # Intent: Sinal de Compra
 
 ## Descrição

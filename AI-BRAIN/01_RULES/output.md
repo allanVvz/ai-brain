@@ -1,3 +1,10 @@
+---
+tags: [rules, output, format]
+type: rule
+applies_to: [all]
+related_skills: [SDR, CLOSER, CLASSIFIER, EXTRACTOR]
+---
+
 # Output Rules
 
 ## Format

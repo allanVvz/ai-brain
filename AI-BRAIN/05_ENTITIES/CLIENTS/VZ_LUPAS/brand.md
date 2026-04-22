@@ -1,3 +1,13 @@
+---
+tags: [vz_lupas, oculos, entity, brand]
+type: entity
+client: vz_lupas
+product_category: oculos
+applies_to: [vz_lupas]
+related_skills: [SDR, CLOSER]
+related_patterns: [compre_1_leve_2, visao_circular_tradein]
+---
+
 # VZ Lupas - Brand
 
 ## Nome

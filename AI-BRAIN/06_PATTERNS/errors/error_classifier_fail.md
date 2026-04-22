@@ -1,3 +1,12 @@
+---
+tags: [pattern, error, classifier, fail, generic]
+type: pattern
+pattern_type: error
+applies_to: [all]
+related_skills: [CLASSIFIER]
+related_flows: [SDR_ROUTING]
+---
+
 # Erro: Classificação Falha
 
 ## Sinal Detectado

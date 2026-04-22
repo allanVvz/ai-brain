@@ -1,3 +1,10 @@
+---
+tags: [flow, sdr, routing, whatsapp]
+type: flow
+applies_to: [all]
+related_skills: [SDR, CLOSER, CLASSIFIER, EXTRACTOR]
+---
+
 # Flow: SDR Routing
 
 ## Context
